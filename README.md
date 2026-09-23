@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hi, I'm Daxes 👋
+
+Cloud Security & DevSecOps engineer with a background in
+network security, infrastructure engineering and automation.
 
 <!--
 **Daxes11/Daxes11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
